@@ -1,7 +1,5 @@
 # MMM-atHome
 A module for the MagicMirror project (https://github.com/MichMich/MagicMirror) to display the next bin collections from the **@HOME** app.
-
-Columns, and headings, as well as how some of the data is displayed is configurable and the inside icon are configurable.
 ![](images/example.png)
 
 ## Installation

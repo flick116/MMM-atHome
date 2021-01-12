@@ -23,9 +23,6 @@ Work in progress
 |`paperName`|No|This setting can be used to change the default name of the Paper and Cardboard wheeled bin text<br><br> **Type:** `string`|
 |`plasticsName`|No|This setting can be used to change the default name of the Plastics and Glass wheeled bin text<br><br> **Type:** `string`|
 |`wasteName`|No|This setting can be used to change the default name of the Waste wheeled bin text<br><br> **Type:** `string`|
-=======
-|`email`|Yes|This is the email address you use to sign into the **@HOME** app<br><br> **Type:** `string`|
-|`option`|Yes|This is a dummy option<br><br> **Type:** `string`|
 
 Example of the config.js entry:
 
